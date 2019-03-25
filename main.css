@@ -1,0 +1,56 @@
+body{
+   
+    left: 0;
+    bottom: 0;
+    width: 99%;
+    background-color:silver;
+    color: black;
+    text-align: center; 
+}
+#links {
+    width: 90%;
+    height: 20%;
+   
+    padding-top: 3%;
+   
+}
+#links > a:link,a:visited{
+    background-color: #a19ff1;
+    color: black;
+    padding: 25px 45px;
+    
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+img{
+    
+    width: 10%;
+    height: 20%;
+    padding-left: 5%;
+    padding-top: 3%;
+    
+}
+#result {
+    
+    color: black;
+    
+    
+    display: inline-block;
+}
+
+footer{
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:midnightblue;
+    color: white;
+    text-align: center; 
+}
+p{
+    font-size: 80%
+}
