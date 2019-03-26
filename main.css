@@ -15,8 +15,8 @@ body{
    
 }
 #links > a:link,a:visited{
-    background-color: #a19ff1;
-    color: black;
+    background-color: #ff0000;
+    color: rgb(255, 255, 255);
     padding: 25px 45px;
     
     text-align: center; 
