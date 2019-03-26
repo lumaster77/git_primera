@@ -3,7 +3,7 @@ body{
     left: 0;
     bottom: 0;
     width: 99%;
-    background-color:darkcyan;
+    background-color:rgb(139, 0, 132);
     color: black;
     text-align: center; 
 }
@@ -52,8 +52,8 @@ footer{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color:midnightblue;
-    color: white;
+    background-color:rgb(186, 252, 206);
+    color: black;
     text-align: center; 
     text-transform: uppercase;
     letter-spacing: 5px;
